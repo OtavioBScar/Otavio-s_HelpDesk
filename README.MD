@@ -8,7 +8,7 @@ Notice that you can order by alphabetic and reload, but since you click on any o
 ## 2. There are the descriptions displayed for your better understanding<br>
 ![Second screen](./secondScreen.jpg)<br>
 Besides having a full view of the problem, two buttons, one for edit and the other to remove complements de window if the user needs to to any of these actions<br>
-## 3. Finally, in the last screen, which is the main focus of the app, the user can fill the inputs to explain the problem he is asking for a solution, so the Help service can get tunned in of the problem.<br>
+## 3. Finally, in the last screen, which is the main focus of the app, the user can fill the inputs to explain the problem he is asking for a solution, so the Help service can get tunned in about the problem.<br>
 ![Third screen](./thirdScreen.jpg)
 
 
